@@ -1,5 +1,7 @@
 RENCANA KONTEN WINTER
 
 - Javascript
+  * ES 6
+  * Framework Javascript
 - PHP
 - Blog
