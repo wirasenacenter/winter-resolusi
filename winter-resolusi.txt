@@ -2,3 +2,5 @@ WINTER RESOLUSI
 - Konsisten membuat aplikasi tiap hari
 - Konsisten belajar javascript tiap hari
 - Konsisten belajar website tiap hari
+- Membuat game dengan javascript
+- Berkolaborasi dengan lebih banyak expert
