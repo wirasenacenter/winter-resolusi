@@ -3,8 +3,10 @@ RENCANA KONTEN WINTER
 - Javascript
   * ES 6
   * Framework Javascript
-   ^ Angular
+   ^ Vue
    ^ React
+- Struktur Data Dasar
 - PHP
  ^ Laravel
 - Blog
+- Python
