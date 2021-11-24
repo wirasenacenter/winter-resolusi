@@ -3,5 +3,6 @@ RENCANA KONTEN WINTER
 - Javascript
   * ES 6
   * Framework Javascript
+- Struktur Data Dasar
 - PHP
 - Blog
